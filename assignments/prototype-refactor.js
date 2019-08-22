@@ -171,8 +171,8 @@ const saurfang = new Hero({
   createdAt: new Date(),
   dimensions: {
     length: 2,
-    width: 2,
-    height: 2
+    width: 3,
+    height: 3
   },
   healthPoints: 65,
   name: "Varok Saurfang",
